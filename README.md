@@ -41,4 +41,3 @@ Puzzler é um Game projetado para Realidade virtual com a finalidade de ajudar a
 > **Teste 2 / Projeto Versão Final** - Bruno, 20 anos. Guitarrista (28/10/2018) : 
 >>*" O tamanho se parece com o mundo real, o clima gera um pouco de tensão e adrenalina. Vejo luzes que simula fogo e vejo 5 esferas flutuando em minha frente. Gostei da experiencia, só achei que a velocidade do deslocamento poderia ser um pouco mais rapida"* 
 
-## Análise Detalhada
