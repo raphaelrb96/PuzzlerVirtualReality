@@ -43,5 +43,6 @@ Puzzler é um Game projetado para Realidade virtual com a finalidade de ajudar a
 
 ## Análise detalhadaa
 
+**Click na foto para assistir o video**
 [![Watch the video](https://img.youtube.com/vi/ZTS5C2RTM-c/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZTS5C2RTM-c)
 > O Jogo se inicia com o usuario a frente de uma UI que possibilita ele começar o game clicando em start. Ao entrar no castelo, o usuario terá de memorizar uma sequencia em que as esferas se ascendem. Apos isso se ele vencer poderá recomeçar a partida
