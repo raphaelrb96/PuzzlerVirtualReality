@@ -41,6 +41,8 @@ Puzzler é um Game projetado para Realidade virtual com a finalidade de ajudar a
 > **Teste 2 / Projeto Versão Final** - Bruno, 20 anos. Guitarrista (28/10/2018) : 
 >>*" O tamanho se parece com o mundo real, o clima gera um pouco de tensão e adrenalina. Vejo luzes que simula fogo e vejo 5 esferas flutuando em minha frente. Gostei da experiencia, só achei que a velocidade do deslocamento poderia ser um pouco mais rapida"* 
 
+Mudanças: Diminui a intensidade e mudei a cor da luz central e diminui o som após o teste1. Após o ultimo teste, mudei apenas acelereção do movimento do usuario.
+
 ## Análise detalhadaa
 
 O Jogo se inicia com o usuario a frente de uma UI que possibilita ele começar o game clicando em start. Ao entrar no castelo, o usuario terá de memorizar uma sequencia em que as esferas se ascendem. Apos isso se ele vencer poderá recomeçar a partida.
@@ -51,3 +53,7 @@ O Jogo se inicia com o usuario a frente de uma UI que possibilita ele começar o
 
 
 [![Watch the video](https://img.youtube.com/vi/ZTS5C2RTM-c/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZTS5C2RTM-c)
+
+# Conclusão
+
+Um dos meus primeiros projetos em Realidade virtual e o primeiro a ser Documentado. Me senti totalmente seguro e qualificado a fazer esse projeto mesmo sendo a primeira vez que usei o Github e mesmo sendo a primeira vez que construo uma documentação. Tudo graças a equipe da Udacity! 
